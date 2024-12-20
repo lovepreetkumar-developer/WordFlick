@@ -1,4 +1,7 @@
 # WordFlick
+
+Play Store: https://play.google.com/store/apps/details?id=com.techfathers.common.english.words.puzzle&hl=en
+
 Awesome Game - Awesome Vocabulary - Awesome Community
 
 Do you want to learn English? Are you looking for a puzzle game to increase the English vocabulary? Then Word Flick: words puzzle game is the best game for you.

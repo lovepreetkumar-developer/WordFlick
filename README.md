@@ -40,12 +40,10 @@ Icons: Flaticons
 
 Music: https://www.bensound.com
 
+![final_screenshot_of-1,2,3](https://github.com/user-attachments/assets/95c47f30-35b5-4256-a99b-fa08b4e2cc43)
 
-![image](https://github.com/user-attachments/assets/592be65a-540e-4dce-8110-f3ba3feb0a09)
 
-![image](https://github.com/user-attachments/assets/8893c2d9-62dc-4691-86d2-d7cf256bab29)
 
-![image](https://github.com/user-attachments/assets/bd08d582-4494-476d-84fe-3d915dcd006c)
 
 
 
